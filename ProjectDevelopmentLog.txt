@@ -1,0 +1,24 @@
+“The Hoppy Game” Game Development Log
+
+Initial Game Design Documentation Completion Date: _8/12/2021_________________
+
+Update Number	Date	    
+1               09/12/2021
+Changes Summary	    
+Changed the winning condition to reaching a portal at the end instead of collecting enough coins to win		      
+Reason for Change
+This change makes more sense for gameplay experience
+
+Update Number  Date
+2	       10/12/2021	
+Changes Summary	 
+Decided to add one more obstacle: moving Spikeman to increase game difficulty
+Reason for Change
+more difficulty to win the game, better experience
+
+Update Number	Date
+3	        12/12/2021	
+Changes Summary	 
+Added winning scene before going to the next level. 
+Reason for Change
+Better gameplay experience. 

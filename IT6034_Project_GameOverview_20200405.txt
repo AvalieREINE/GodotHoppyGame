@@ -1,0 +1,28 @@
+Game title 
+
+Hoppy Game
+
+Intended game platforms 
+
+Godot
+
+Target age of players
+
+Age 6 and above. 
+
+Office of Film & Literature Classification (OFLC) classification
+
+The Rating is G. suitable for anyone. 
+
+A summary of game’s story 
+
+This is a simple jumping game where the player as a bunny jump through a series of obstacles with out falling down, and collect coins to gain extra life, and pass the level when reach the portal at the end. 
+To control the bunny, use A on the keyboard to go left, use D to go right, use W or Space to jump. Bunny will have 3 lives at the beginning of each level, bunny can earn extra life by collecting 10 coins. Bunny loses one life when going through an obstacle, they are two types of obstacles, one is a spike-like hazard, and the other one is a moving spikeman. Game ends when there’s no remaining life or the bunny fall off. 
+You will have the option to start over from level one after the game is over. 
+ Unique selling points
+
+•	Easy to control and manoeuvre, hence suitable for any age. 
+•	Fun and challenging, as the game level increases, the difficulty increases. 
+•	Jumping game gives people a thrilling feeling as they jump through obstacles or jump over gap and land safely. 
+•	This game has added different positive and negative effects to make the game more interesting and challenging, such as coins collecting for extra life, obstacles to take lives away, and winning by reaching the portal. 
+

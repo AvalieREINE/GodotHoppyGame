@@ -1,0 +1,38 @@
+title page 
+Hoppy Game
+
+
+game outline 
+elegant jumping game where player is the bunny in the game, who needs to avoid hazards and not drop to reach the end of the portal to pass the current level. Player will have 3 lives in the beginning of each level and loses a life when pass through a hazard. Player can also collect coins to earn an extra life. Player loses the game when falling off or loses all the lives they have. 
+
+
+character description 
+the bunny, which is controlled by the player, can go left(a), right(d), and jump (w or space). The bunny can also collect coins by move passing the coins. The coins will then disappear, and the total coin points will increase. 
+The spike-like hazard: They are obstacles and design to deduce one life from bunny when the bunny passes through them. 
+The moving spikeman: it moves back and furth on its own space, bunny needs to avoid passing through the spikeman or the bunny will lose one life. 
+Portal: there’s a animated portal at the end of each level, passing through the portal to win the current level and be able to enter the next level. 
+
+
+gameplay 
+There will be several levels at the first release of the game, however the number of levels will increase and there’s no limit. 
+The player needs to reach the portal at the end of each level to win(enter the next level). If the player(bunny) falls off the game will be over. The player can choose to restart the game, which will be from the first level.  (It gives more excitement and suspense this way, if the game only restarts the current level, people could lose interest very fast as it’s not challenging enough)
+Bunny needs to avoid hazards and collect coins without falling off. 
+Bunny has 3 lives at the beginning of each level, bunny earns an extra life when collecting 10 coins.
+ 
+
+game world description 
+the game is in a blue sky, clean clouds, simple background setting. The game camera move as the bunny moves; the background has 3 layers makes the game more 3D-like. 
+Bunny is to jump on stands and if misses, it would fall off the sky. There’s also coins on the stands, which can be collected when bunny passes through them. There are also hazards which bunny needs to avoid or it loses one life. 
+
+
+game experience 
+the bunny is animated with different movement settings. The background also moves as the bunny moves. When bunny falls off, it applies gravity. 
+Almost every character is animated so the game looks more life-like. 
+Effects are added to bunny when walk, jump and stand. Coins are animated and have different animation before being collected i.e., disappearing. Moving hazard spikeman automatically moves back and forth to increase the difficulty for the game. 
+Fun background music and sound effects are added to give a better player experience. 
+
+
+gameplay mechanics
+From the start scene, player reads through the playing rules and can press the bunny or tap on space to start the game. 
+Player can use A key to make the bunny go left, the D key to go right, and the W or Space to jump. 
+When the game is over, player can press the bunny button or tap space to restart the game. 
